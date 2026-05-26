@@ -44,7 +44,7 @@ A console-based Hospital Management System developed in Java using Object-Orient
 ```text
 HospitalManagementSystem.java
 README.md
-Sample_Output.pdf
+Hospital Managment System Output.pdf
 ```
 
 ## Learning Outcomes
