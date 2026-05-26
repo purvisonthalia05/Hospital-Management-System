@@ -42,7 +42,7 @@ A console-based Hospital Management System developed in Java using Object-Orient
 ## Project Structure
 
 ```text
-HospitalManagementSystem.java
+CODE.java
 README.md
 Hospital Managment System Output.pdf
 ```
@@ -53,4 +53,4 @@ This project demonstrates practical implementation of core Java concepts includi
 
 ## Author
 
-Pavvit Singh
+Purvi Sonthalia
